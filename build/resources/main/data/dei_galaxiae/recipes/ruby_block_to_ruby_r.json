@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "ingredients": [{"item": "dei_galaxiae:ruby_block"}],
+  "result": {"item": "dei_galaxiae:ruby","counts": 9}
+}

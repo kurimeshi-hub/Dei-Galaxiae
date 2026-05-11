@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {"#": {"item": "dei_galaxiae:ruby"}},
+  "result": {"item": "dei_galaxiae:ruby_block"}
+}
