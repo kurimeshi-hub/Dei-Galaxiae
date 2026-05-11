@@ -1,0 +1,34 @@
+# --- Minecraft Run Directories ---
+# 実行時に生成されるログ、設定、ワールドデータを除外
+/run/
+/runSafe/
+/out/
+
+# --- Build Tools & Gradle ---
+# ビルドプロセスで生成されるバイナリやキャッシュを除外
+.gradle/
+build/
+bin/
+/build/
+
+# --- IDE Specific (IntelliJ IDEA) ---
+# 個人の設定やキャッシュを除外
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# --- IDE Specific (Eclipse) ---
+.metadata/
+.classpath
+.project
+.settings/
+.loadpath
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+
+# --- Log files ---
+*.log

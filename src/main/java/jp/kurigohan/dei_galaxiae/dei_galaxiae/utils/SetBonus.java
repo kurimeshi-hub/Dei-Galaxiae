@@ -66,8 +66,8 @@ public class SetBonus {
         lines.add(header.append(counter));
 
         // ボーナス行
-        lines.add(bonusLine("Max Health +2", bonusColor));
-        lines.add(bonusLine("Grants Regeneration II", bonusColor));
+        lines.add(bonusLine("Max Health +1 Heart (per piece)", bonusColor));
+        lines.add(bonusLine("Full Set: +1 Heart & Regeneration II", bonusColor));
 
         return lines;
     }

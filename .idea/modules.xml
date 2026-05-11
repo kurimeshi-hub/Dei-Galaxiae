@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DeiGalaxiae.iml" filepath="$PROJECT_DIR$/.idea/modules/DeiGalaxiae.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/DeiGalaxiae.main.iml" filepath="$PROJECT_DIR$/.idea/modules/DeiGalaxiae.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/DeiGalaxiae.test.iml" filepath="$PROJECT_DIR$/.idea/modules/DeiGalaxiae.test.iml" />
     </modules>
