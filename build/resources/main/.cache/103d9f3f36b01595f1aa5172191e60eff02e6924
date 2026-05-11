@@ -1,7 +1,0 @@
-// 1.20.1	2026-05-09T13:25:28.6975034	Registries
-65fcd89b10c4475f92c7c95cec91101505de4f03 data/dei_galaxiae/forge/biome_modifier/add_deepslate_ruby_ore.json
-363bae82d7a91f25ff3c016225a2ea0bb23593e7 data/dei_galaxiae/forge/biome_modifier/add_ruby_ore.json
-d7d8cea07711b812673f2905f2f773d4e6225e43 data/dei_galaxiae/worldgen/configured_feature/deepslate_ruby_ore.json
-d7aaf9932c16f1df92cda20d4dc97e6683723a3a data/dei_galaxiae/worldgen/configured_feature/ruby_ore.json
-7a0b1464c3d9e9fe656f0bb1de202894f2dd08a2 data/dei_galaxiae/worldgen/placed_feature/deepslate_ruby_ore_placed.json
-c7bef8a1d3eab173e817287f0aa50a0d2109837f data/dei_galaxiae/worldgen/placed_feature/ruby_ore_placed.json
